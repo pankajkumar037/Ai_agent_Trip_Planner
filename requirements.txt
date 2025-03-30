@@ -1,0 +1,5 @@
+crewai
+duckduckgo-search
+streamlit
+google-generativeai
+python-dotenv
